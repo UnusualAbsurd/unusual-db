@@ -1,0 +1,27 @@
+{
+  "name": "unusual-db",
+  "version": "1.0.8",
+  "description": "UnusualDB is a mongoose database package , that makes it easier to use for small projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnusualAbsurd/unusual-package.git"
+  },
+  "keywords": [
+    "db",
+    "mongoose",
+    "monodb"
+  ],
+  "author": "https://github.com/UnusualAbsurd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnusualAbsurd/unusual-package/issues"
+  },
+  "homepage": "https://github.com/UnusualAbsurd/unusual-package#readme",
+  "dependencies": {
+    "mongoose": "^6.0.4"
+  }
+}
